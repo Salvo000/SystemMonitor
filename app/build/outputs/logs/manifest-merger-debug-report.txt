@@ -1,0 +1,238 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:53:9-61:20
+	android:grantUriPermissions
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:57:13-47
+	android:authorities
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:55:13-60
+	android:exported
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:54:13-67
+manifest
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+MERGED from [com.android.support:design:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4b698ec5022c6af394357ee2a46b27ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3c14baa63ad8a8792808ac43434f09d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/60df73e619bd6f2db19b06342823e38a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02eb0a9360313a22adbb065359803f6f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/MPAndroidChart-v3.1.0-alpha.aar/5ed82390b275ada48c41148a8f1f046a/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/813e5a88d93b8cf75854590995de374e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/16e7caa3d0c875bed161b5ca6e75c560/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ce949287ed4a235574d53965a29e01e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bdfa0a0d0eae6435924d527c6247e228/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/7a886e6638632aea592af6ddf8ba639b/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/326d0b9766d4975e839b30453728f800/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2c59b3f3fdffc712765e22484fde2408/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a6977d673df588fb9af0286997d3c6dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/aca6fd9d1f3cc1bc73833ae2229f68c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7d811c67be40af2b90fa19207d0402a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0870b120adbd87c109e17ce8b2f17cbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/360ad95e103cd52f93f6fed75b9b4e67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c201747ab490fe319fef07babf6b17f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/bedb9ced7d9d3479db6434b3ccec04cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42e4c4902c2c870a9f21476842dd59c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e8e70b461f924f57cd040c7aacff4525/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e3c9a5ac83301266e93de4ea301beddd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:4:5-50
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:6:5-114
+	tools:ignore
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:6:76-111
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:11:5-62:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/60df73e619bd6f2db19b06342823e38a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/60df73e619bd6f2db19b06342823e38a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:26:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:13:9-37
+	android:allowBackup
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.salvatorefiorilla.systemmonitor.MainActivity
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.salvatorefiorilla.systemmonitor.DetailsAppActivity
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:28:19-53
+activity#com.salvatorefiorilla.systemmonitor.ToolsActivity
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:30:9-42:20
+	android:parentActivityName
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:31:13-55
+	android:label
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:32:13-48
+	android:theme
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:30:19-48
+meta-data#android.app.searchable
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:34:13-36:54
+	android:resource
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:36:17-51
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:35:17-54
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:38:13-40:29
+action#android.intent.action.SEARCH
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:39:17-71
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:39:25-68
+service#com.salvatorefiorilla.systemmonitor.ConfigService
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:45:13-42
+service#com.salvatorefiorilla.systemmonitor.ReportService
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:49:13-42
+uses-sdk
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4b698ec5022c6af394357ee2a46b27ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4b698ec5022c6af394357ee2a46b27ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3c14baa63ad8a8792808ac43434f09d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3c14baa63ad8a8792808ac43434f09d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/60df73e619bd6f2db19b06342823e38a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/60df73e619bd6f2db19b06342823e38a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:20:5-43
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02eb0a9360313a22adbb065359803f6f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/02eb0a9360313a22adbb065359803f6f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/MPAndroidChart-v3.1.0-alpha.aar/5ed82390b275ada48c41148a8f1f046a/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0-alpha] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/MPAndroidChart-v3.1.0-alpha.aar/5ed82390b275ada48c41148a8f1f046a/AndroidManifest.xml:16:5-18:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/813e5a88d93b8cf75854590995de374e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/813e5a88d93b8cf75854590995de374e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/16e7caa3d0c875bed161b5ca6e75c560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/16e7caa3d0c875bed161b5ca6e75c560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ce949287ed4a235574d53965a29e01e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ce949287ed4a235574d53965a29e01e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bdfa0a0d0eae6435924d527c6247e228/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/bdfa0a0d0eae6435924d527c6247e228/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/7a886e6638632aea592af6ddf8ba639b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/7a886e6638632aea592af6ddf8ba639b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/326d0b9766d4975e839b30453728f800/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/326d0b9766d4975e839b30453728f800/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2c59b3f3fdffc712765e22484fde2408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2c59b3f3fdffc712765e22484fde2408/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a6977d673df588fb9af0286997d3c6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a6977d673df588fb9af0286997d3c6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/aca6fd9d1f3cc1bc73833ae2229f68c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/aca6fd9d1f3cc1bc73833ae2229f68c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7d811c67be40af2b90fa19207d0402a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/7d811c67be40af2b90fa19207d0402a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0870b120adbd87c109e17ce8b2f17cbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0870b120adbd87c109e17ce8b2f17cbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/360ad95e103cd52f93f6fed75b9b4e67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/360ad95e103cd52f93f6fed75b9b4e67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c201747ab490fe319fef07babf6b17f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c201747ab490fe319fef07babf6b17f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/bedb9ced7d9d3479db6434b3ccec04cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/bedb9ced7d9d3479db6434b3ccec04cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42e4c4902c2c870a9f21476842dd59c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/42e4c4902c2c870a9f21476842dd59c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e8e70b461f924f57cd040c7aacff4525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e8e70b461f924f57cd040c7aacff4525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e3c9a5ac83301266e93de4ea301beddd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e3c9a5ac83301266e93de4ea301beddd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:58:13-60:57
+	android:resource
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:60:17-55
+	android:name
+		ADDED from /Users/salvatorefiorilla/AndroidStudioProjects/SystemMonitorInit/app/src/main/AndroidManifest.xml:59:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/3f46795ca0ee3ae24fff870b1caeccb3/AndroidManifest.xml:23:9-47
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/salvatorefiorilla/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/05a6b5588c2e3ad5690eaf7f75f94cf7/AndroidManifest.xml:24:13-83
